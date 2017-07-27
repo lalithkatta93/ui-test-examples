@@ -3,7 +3,6 @@
 //  ui-tests-example
 //
 //  Created by Jakub Knejzlik on 22/03/16.
-//  Copyright © 2016 Funtasty Digital. All rights reserved.
 //
 
 import UIKit
